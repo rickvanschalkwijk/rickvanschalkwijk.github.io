@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: System error virus not found
+title: System Error Virus Not Found
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A technical blog about my journey though the world of programming.
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Rick van Schalkwijk"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "A GitHub page for my brains memory dump."
+  bio    : "A technical blog about my journey though the world of programming."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
